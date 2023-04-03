@@ -1,0 +1,173 @@
+.about{
+    margin: 0% auto;
+    padding: 30px;
+    margin-top: 50px;
+
+}
+.history{
+    display: flex;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+.server{
+    margin-left: 60px;
+}
+.server p{
+    margin-top: 20px;
+}
+.server h2{
+    margin-right: 470px;
+}
+.history img{
+    margin-right: 300px;
+}
+.all{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+.aims{
+    margin-left: 40px;
+}
+.org-chart {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: calc(25% - 20px);
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .card img {
+    display: block;
+    margin: 0 auto 10px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .start, .end {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .start h1, .end p {
+    margin: 0;
+  }
+  
+.start2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  section {
+    flex-basis: 30%;
+    margin-bottom: 20px;
+  }
+  
+  section h2 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+  }
+  
+
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .service {
+    flex-basis: 30%;
+    margin: 10px;
+  }
+  
+  .service img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .service h3 {
+    margin-top: 10px;
+  }
+  
+  .service p {
+    margin-top: 5px;
+  }
+  
+
+  .reviews {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .review {
+    flex-basis: 30%;
+    margin: 10px;
+  }
+  
+  .review h3 {
+    margin-top: 10px;
+  }
+  
+  .review p {
+    margin-top: 5px;
+  }
+  
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form label {
+    margin-top: 10px;
+  }
+  
+  .form input,
+  .form select,
+  .form textarea {
+    width: 100%;
+    margin-top: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .form input[type="submit"]:hover {
+    background-color: #555;
+  }
+  
+  .form textarea {
+    height: 100px;
+  }
